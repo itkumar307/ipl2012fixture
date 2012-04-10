@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<team>
+	<playerlist>
+		<player type="Batsman" country="India">Rahul Dravid (Captain)</player>
+		<player type="Batsman" country="India">Ashok Menaria</player>
+		<player type="Batsman" country="India">Ajinkya Rahane</player>
+		<player type="Batsman" country="India">Aakash Chopra</player>
+		<player type="All Rounder" country="India">Abhishek Raut</player>
+		<player type="All Rounder" country="India">Ankeet Chavan</player>
+		<player type="Wicket Keeper" country="South Africa">Amit Paunikar</player>
+		<player type="Bowler" country="India">Amit Singh</player>
+		<player type="Bowler" country="India">Aditya Dole</player>
+		<player type="Batsman" country="Australia">Bradley Hodge</player>
+		<player type="Bowler" country="Australia">Brad Hogg</player>
+		<player type="Wicket Keeper" country="India">Dishant Yagnik</player>
+		<player type="Wicket Keeper" country="Sri Lanka">Dinesh Chandimal</player>
+		<player type="Bowler" country="India">Deepak Chahar</player>
+		<player type="Batsman" country="India">Faiz Fazal</player>
+		<player type="Batsman" country="India">Gajendra Singh</player>
+		<player type="All Rounder" country="South Africa">Johan Botha</player>
+		<player type="All Rounder" country="West Indies">Kevon Cooper</player>
+		<player type="Bowler" country="India">Nayan Doshi</player>
+		<player type="Batsman" country="England">Owais Shah</player>
+		<player type="Bowler" country="India">Pankaj Singh</player>
+		<player type="All Rounder" country="England">Paul Collingwood</player>
+		<player type="Wicket Keeper" country="India">Pinal Shah</player>
+		<player type="Wicket Keeper" country="India">Shreevats Goswami</player>
+		<player type="Bowler" country="Australia">Shaun Tait</player>
+		<player type="Bowler" country="India">Sreesanth</player>
+		<player type="Bowler" country="India">Samad Fallah</player>
+		<player type="Bowler" country="India">Siddharth Trivedi</player>
+		<player type="Batsman" country="India">Samad Fallah</player>
+		<player type="Batsman" country="India">Swapnil Asnodkar</player>
+		<player type="All Rounder" country="Australia">Shane Watson</player>
+		<player type="All Rounder" country="India">Stuart Binny</player>
+	</playerlist>
+</team>

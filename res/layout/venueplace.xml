@@ -1,0 +1,60 @@
+<LinearLayout android:id="@+id/LinearLayout01"
+		android:layout_width="fill_parent" android:layout_height="fill_parent"
+		xmlns:android="http://schemas.android.com/apk/res/android"
+		android:background="@drawable/cricketbg" android:orientation="vertical">
+		<LinearLayout android:id="@+id/linearLayout1"
+				android:layout_width="match_parent" android:layout_height="wrap_content"
+				android:orientation="vertical">
+				<LinearLayout android:id="@+id/linearLayout2"
+						android:layout_width="match_parent" android:layout_height="wrap_content"
+						android:orientation="vertical" android:padding="4dip">
+
+						<com.scilla.text.HelveticaBold
+								android:id="@+id/menu_searchtext" android:layout_width="wrap_content"
+								android:layout_height="wrap_content" android:text="Searched By"
+								android:textColor="@color/popupdialogheadcolor" />
+
+						<View android:id="@+id/view1" android:layout_width="wrap_content"
+								android:layout_height="1dip" android:layout_marginTop="2dip"
+								android:background="@color/disabled" />
+
+				</LinearLayout>
+
+				<LinearLayout android:id="@+id/linearLayout8"
+						android:layout_width="match_parent" android:layout_height="wrap_content">
+
+						<com.scilla.text.HelveticaBold
+								android:text="Place" android:id="@+id/radioButton1"
+								android:layout_weight="1" android:layout_width="wrap_content"
+								android:layout_height="wrap_content"></com.scilla.text.HelveticaBold>
+						<Spinner android:id="@+id/spinner2" android:layout_width="wrap_content"
+								android:layout_weight="1" android:prompt="@string/PLACE"
+								android:layout_height="wrap_content"></Spinner>
+						<Button android:text="Search" android:id="@+id/button1"
+								android:layout_weight="1" android:layout_width="wrap_content"
+								android:layout_height="wrap_content"></Button>
+
+				</LinearLayout>
+				<LinearLayout android:id="@+id/linearLayout7"
+						android:layout_width="match_parent" android:layout_height="wrap_content"
+						android:orientation="vertical" android:padding="4dip">
+
+						<com.scilla.text.HelveticaBold
+								android:id="@+id/textView3" android:layout_width="wrap_content"
+								android:layout_height="wrap_content" android:text="Team Schedule"
+								android:textColor="@color/popupdialogheadcolor" />
+
+						<View android:id="@+id/view1" android:layout_width="wrap_content"
+								android:layout_height="1dip" android:layout_marginTop="2dip"
+								android:background="@color/disabled" />
+				</LinearLayout>
+		</LinearLayout>
+		<ListView android:id="@+id/android:list"
+				android:layout_width="fill_parent" android:layout_height="wrap_content"
+				android:dividerHeight="1px" />
+		<com.google.ads.AdView android:id="@+id/ad"
+				xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+				android:gravity="bottom" android:layout_width="wrap_content"
+				android:layout_height="wrap_content" ads:adSize="BANNER"
+				ads:adUnitId="a14f7f0879adda5" ads:loadAdOnCreate="true" />
+</LinearLayout>

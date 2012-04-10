@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<team>
+	<playerlist>
+		<player type="Batsman" country="India">Gautam Gambhir(Captain)</player>
+		<player type="Wicket Keeper" country="Australia">Brad Haddin</player>
+		<player type="Wicket Keeper" country="New Zealand">Brendon McCullum</player>
+		<player type="Bowler" country="Australia">Brett Lee</player>
+		<player type="All Rounder" country="India">Chirag Jani</player>
+		<player type="Wicket Keeper" country="India">Debabrata Das</player>
+		<player type="Batsman" country="England">Eoin Morgan</player>
+		<player type="Bowler" country="India">Iqbal Abdullah</player>
+		<player type="Bowler" country="India">Iresh Saxena</player>
+		<player type="Bowler" country="India">Jaydev Unadkat</player>
+		<player type="Bowler" country="Australia">James Pattinson</player>
+		<player type="All Rounder" country="South Africa">Jacques Kallis</player>
+		<player type="Bowler" country="India">Lakshmipathy Balaji</player>
+		<player type="All Rounder" country="India">Laxmi Ratan Shukla</player>
+		<player type="Batsman" country="India">Manoj Tiwary</player>
+		<player type="Wicket Keeper" country="India">Manvinder Bisla</player>
+		<player type="Bowler" country="South Africa">Marchant de Lange</player>
+		<player type="Bowler" country="India">Pradeep Sangwan</player>
+		<player type="All Rounder" country="India">Rajat Bhatia</player>
+		<player type="All Rounder" country="Netherlands">Ryan ten Doeschate</player>
+		<player type="All Rounder" country="Bangladesh">Shakib Al Hasan</player>
+		<player type="Wicket Keeper" country="India">Shreevats Goswami</player>
+		<player type="Wicket Keeper" country="India">Sanju Samsen</player>
+		<player type="Bowler" country="India">Sarabjit Ladda</player>
+		<player type="Bowler" country="India">Shami Ahmed</player>
+		<player type="Bowler" country="West Indies">Sunil Nariner</player>
+		<player type="All Rounder" country="India">Yusuf Pathan</player>
+	</playerlist>
+</team>

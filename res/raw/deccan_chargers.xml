@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<team>
+	<playerlist>
+		<player type="Wicket Keeper" country="Sri Lanka">Kumar Sangakkara(Captain)</player>
+		<player type="Bowler" country="India">Akash Bhandari</player>
+		<player type="Batsman" country="India">Abhishek</player>
+		<player type="Batsman" country="India">Akshath Reddy</player>
+		<player type="Bowler" country="India">Amit Mishra</player>
+		<player type="All Rounder" country="India">Ashish Reddy</player>
+		<player type="All Rounde" country="India">Anand Rajan</player>
+		<player type="All Rounder" country="India">Ankit Sharma</player>
+		<player type="All Rounder" country="India">Atchuta Rao</player>
+		<player type="Batsman" country="India">Arjun Yadav</player>
+		<player type="Batsman" country="India">Bharat Chipli</player>
+		<player type="Batsman" country="India">Biplab Samantray</player>
+		<player type="Batsman" country="Australia">Cameron White</player>
+		<player type="Batsman" country="Australia">Chris Lynn</player>
+		<player type="Bowler" country="South Africa">Dale Steyn</player>
+		<player type="All Rounder" country="Australia">Daniel Christian</player>
+		<player type="All Rounder" country="West Indies">Darren Bravo</player>
+		<player type="Bowler" country="Australia">Daniel Harris</player>
+		<player type="Batsman" country="India">Dwaraka Ravi Teja</player>
+		<player type="All Rounderler" country="India">Ishan Malhotra</player>
+		<player type="Batsman" country="India">Ishank Jaggi</player>
+		<player type="Bowler" country="India">Ishant Sharma</player>
+		<player type="Batsman" country="South Africa">J P Duminy</player>
+		<player type="Bowler" country="India">Manpreet Gony</player>
+		<player type="Wicket Keeper" country="India">Parthiv Patel</player>
+		<player type="Batsman" country="India">Shikhar Dhawan</player>
+		<player type="Batsman" country="India">Sunny Sohal</player>
+		<player type="Bowler" country="India">TP Sudhindra</player>
+		<player type="Batsman" country="India">Tanmay Mishra</player>
+		<player type="Batsman" country="India">Tanmay Srivastava</player>
+		<player type="Bowler" country="India">Veer Pratap Singh</player>
+	</playerlist>
+</team>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		android:id="@+id/layoutusearch" android:layout_width="fill_parent"
+		android:layout_height="80dip" android:background="#ffffff"
+		android:orientation="horizontal" android:paddingBottom="4dip"
+		android:paddingLeft="4dip" android:paddingRight="4dip"
+		android:paddingTop="5dip">
+
+		<ImageView android:id="@+id/imgteam1" android:layout_width="80.0dip"
+				android:layout_height="60.0dip" android:layout_alignParentLeft="true"
+				android:layout_centerVertical="true" android:layout_marginLeft="12.0dip"
+				android:adjustViewBounds="true" android:scaleType="fitXY" />
+		<ImageView android:id="@+id/imgteam2" android:layout_width="80.0dip"
+				android:layout_height="60.0dip" android:layout_alignParentRight="true"
+				android:layout_toLeftOf="@+id/linearlayoutsearch"
+				android:layout_centerVertical="true" android:layout_marginRight="12.0dip"
+				android:adjustViewBounds="true" android:scaleType="fitXY" />
+		<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+				android:id="@+id/linearlayoutsearch" android:layout_width="fill_parent"
+				android:layout_height="wrap_content" android:layout_centerVertical="true"
+				android:layout_toRightOf="@+id/imgteam1" android:orientation="vertical"
+				android:paddingLeft="10.0dip">
+				<com.scilla.text.Helvetica android:id="@+id/teamvsteam"
+						android:textColor="@color/textcolor" android:text="teamvsteam"
+						android:layout_width="wrap_content" android:layout_height="wrap_content" />
+				<View android:id="@+id/usedcarview1" android:layout_width="wrap_content"
+						android:layout_height="3px" />
+				<LinearLayout android:id="@+id/searchvenue"
+						android:layout_width="wrap_content" android:layout_height="wrap_content"
+						android:orientation="horizontal">
+						<com.scilla.text.Helvetica android:id="@+id/venuename"
+								android:textColor="@color/textcolor" android:layout_width="wrap_content"
+								android:layout_height="wrap_content" android:textSize="@dimen/carlist_value"
+								android:text="Venue" />
+				</LinearLayout>
+				<LinearLayout android:id="@+id/date_time"
+						android:layout_width="wrap_content" android:layout_height="wrap_content"
+						android:orientation="horizontal">
+						<com.scilla.text.Helvetica android:id="@+id/date"
+								android:textColor="@color/textcolor" android:layout_width="wrap_content"
+								android:layout_height="wrap_content" android:textSize="@dimen/carlist_value"
+								android:text="date" />
+						<com.scilla.text.Helvetica android:id="@+id/time"
+								android:textColor="@color/textcolor" android:layout_width="wrap_content"
+								android:layout_height="wrap_content" android:text="time"
+								android:textSize="@dimen/carlist_intimation" />
+				</LinearLayout>
+		</LinearLayout>
+</RelativeLayout>

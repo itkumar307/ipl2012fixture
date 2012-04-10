@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+		<dimen name="carlist_value">12dip</dimen>
+		<dimen name="carlist_intimation">12dip</dimen>
+		<dimen name="carlist_updatetime">10dip</dimen>
+		<dimen name="carlist_padding_updatetime">1dip</dimen>
+</resources>

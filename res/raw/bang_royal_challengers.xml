@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<team>
+	<playerlist>
+		<player type="All Rounder" country="New Zealand">Daniel Vettori(Captain)</player>
+		<player type="Bowler" country="India">Abhimanyu Mithun</player>
+		<player type="All Rounder" country="Australia">Andrew McDonald</player>
+		<player type="Batsman" country="India">Abrar Kazi</player>
+		<player type="Wicket Keeper" country="South Africa">AB de Villiers</player>
+		<player type="Batsman" country="India">Arun Karthik</player>
+		<player type="All Rounder" country="India">Asad Pathan</player>
+		<player type="Batsman" country="India">Cm Gautam</player>
+		<player type="Bowler" country="South Africa">Charl Langeveldt</player>
+		<player type="Batsman" country="India">Cheteshwar Pujara</player>
+		<player type="All Rounder" country="West Indies">Chris Gayle</player>
+		<player type="Bowler" country="Australia">Dirk Nannes</player>
+		<player type="Bowler" country="India">Harshal Patel</player>
+		<player type="Batsman" country="India">Jonathan Vandiar</player>
+		<player type="Bowler" country="India">Jamaluddin Syed Mohammad</player>
+		<player type="Bowler" country="India">K P Appanna</player>
+		<player type="All Rounder" country="India">Karun Nair</player>
+		<player type="Batsman" country="Australia">Luke Pomersbach</player>
+		<player type="Bowler" country="Sri Lanka">Muttiah Muralitharan</player>
+		<player type="Batsman" country="India">Muralidharen Gautam</player>
+		<player type="Batsman" country="India">Mayank Agarwal</player>
+		<player type="Batsman" country="Pakistan">Mohammad Yousuf</player>
+		<player type="Batsman" country="India">M Kaif</player>
+		<player type="Bowler" country="Sri Lanka">Nuwan Pradeep</player>
+		<player type="Batsman" country="India">Rilee Rossouw</player>
+		<player type="All Rounder" country="India">Raju Bhatkal</player>
+		<player type="All Rounder" country="India">Ryan Ninan</player>
+		<player type="Bowler" country="India">Ronit More</player>
+		<player type="Bowler" country="India">S Aravind</player>
+		<player type="All Rounder" country="India">S Thiyagarajan</player>
+		<player type="Batsman" country="India">Saurabh Tiwary</player>
+		<player type="Batsman" country="Sri Lanka">Tillakaratne Dilshan</player>
+		<player type="Batsman" country="India">Virat Kohli</player>
+		<player type="Batsman" country="India">Vijay Zol</player>
+		<player type="Bowler" country="India">Vinay Kumar</player>
+		<player type="Bowler" country="India">Zaheer Khan</player>
+	</playerlist>
+</team>		

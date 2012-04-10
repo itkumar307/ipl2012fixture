@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<team>
+	<playerlist>
+		<player type="Batsman" country="India">Virender Sehwag(Captain)</player>
+		<player type="Batsman" country="Australia">Aaron Finch</player>
+		<player type="Bowler" country="India">Aavishkar Salvi</player>
+		<player type="Bowler" country="India">Ajit Agarkar</player>
+		<player type="Bowler" country="India">Ajit Chandila</player>
+		<player type="Bowler" country="India">Ashok Dinda</player>
+		<player type="All Rounder" country="West Indies">Andre Russell</player>
+		<player type="Batsman" country="South Africa">Colin Ingram</player>
+		<player type="Batsman" country="Australia">David Warner</player>
+		<player type="Bowler" country="New Zealand">Doug Bracewell</player>
+		<player type="Batsman" country="India">Gulam Bodi</player>
+		<player type="Bowler" country="India">Irfan Pathan</player>
+		<player type="All Rounder" country="Australia">James Hopes</player>
+		<player type="Wicket Keeper" country="Australia">Matthew Wade</player>
+		<player type="Bowler" country="South Africa">Morne Morkel</player>
+		<player type="Batsman" country="India">Manpreet C Juneja</player>
+		<player type="Batsman" country="Sri Lanka">Mahela Jayawardena</player> 
+ 		<player type="Wicket Keeper" country="India">Naman Ojha</player> 
+ 		<player type="Batsman" country="India">Prashant Naik</player> 
+ 		<player type="All Rounder" country="India">Pawan Negi</player> 
+		<player type="Wicket Keeper" country="India">Punit Bisht</player> 
+<!-- 		<player type="Batsman" country="South Africa">Kevin Pietersen</player>  -->
+		<player type="Bowler" country="India">Rajesh Pawar</player>
+		<player type="All Rounder" country="South Africa">Robert Frylinck</player>
+		<player type="Batsman" country="India">Robin Bist</player>
+		<player type="Batsman" country="New Zealand">Ross Taylor</player>
+		<player type="All Rounder" country="South Africa">Roelof van der Merwe</player>
+		<player type="All Rounder" country="India">Sridharan Sriram</player>
+		<player type="Bowler" country="India">Shahbaz Nadeem</player>
+		<player type="Bowler" country="India">Sunny Gupta</player>
+		<player type="Batsman" country="India">Tejashwi Yadav</player>
+		<player type="Batsman" country="Australia">Travis Birt</player>
+		<player type="Bowler" country="India">Umesh Yadav</player>
+		<player type="Batsman" country="India">Unmukt Chand</player>
+		<player type="Bowler" country="India">Varun Aaron</player>
+		<player type="All Rounder" country="India">Venugopal Rao</player>
+		<player type="Bowler" country="India">Vikas Mishra</player>
+		<player type="Bowler" country="India">Vivek Yadav</player>
+		<player type="Bowler" country="India">Yogesh Nagar</player>
+		<player type="Bowler" country="India">Zafir Patel</player>
+	</playerlist>
+</team>

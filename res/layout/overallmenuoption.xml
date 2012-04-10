@@ -1,0 +1,245 @@
+<RelativeLayout android:id="@+id/linearLayout"
+		android:layout_width="fill_parent" android:layout_height="fill_parent"
+		android:background="@drawable/cricketbg" xmlns:android="http://schemas.android.com/apk/res/android">
+		<ScrollView android:id="@+id/scroller"
+				android:layout_width="fill_parent" android:layout_height="fill_parent"
+				android:orientation="vertical" android:layout_marginBottom="25dip">
+				<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+						android:id="@+id/linearLayout1" android:layout_width="wrap_content"
+						android:layout_height="fill_parent">
+						<LinearLayout android:id="@+id/linearLayout1"
+								android:layout_width="match_parent" android:layout_height="wrap_content"
+								android:orientation="vertical">
+								<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+										android:id="@+id/header" android:layout_width="fill_parent"
+										android:layout_height="20px" android:gravity="center_horizontal">
+
+										<com.scilla.text.HelveticaBold
+												android:id="@+id/menu_toptext" android:layout_width="wrap_content"
+												android:layout_height="wrap_content"
+												android:layout_centerHorizontal="true"
+												android:layout_marginTop="2dip" android:gravity="center_vertical"
+												android:singleLine="true" android:text="IPL 2012 SCHEDULE"
+												android:textColor="@color/tilte_text" />
+								</RelativeLayout>
+								<LinearLayout android:id="@+id/linearLayout2"
+										android:layout_width="match_parent" android:layout_height="wrap_content"
+										android:orientation="vertical" android:padding="2dip">
+
+										<com.scilla.text.HelveticaBold
+												android:id="@+id/menu_searchtext" android:layout_width="wrap_content"
+												android:layout_height="wrap_content" android:text="Search By"
+												android:textColor="@color/popupdialogheadcolor" />
+
+										<View android:id="@+id/view1" android:layout_width="wrap_content"
+												android:layout_height="1dip" android:layout_marginTop="2dip"
+												android:background="@color/disabled" />
+								</LinearLayout>
+								<LinearLayout android:id="@+id/linearLayout3"
+										android:layout_width="match_parent" android:layout_height="wrap_content">
+
+										<ImageView android:id="@+id/menu_image_team"
+												android:layout_width="wrap_content" android:layout_height="wrap_content"
+												android:layout_weight="1" android:src="@drawable/team" />
+										<ImageView android:id="@+id/menu_image_stadium"
+												android:layout_width="wrap_content" android:layout_height="wrap_content"
+												android:layout_weight="1" android:src="@drawable/stadium" />
+										<ImageView android:id="@+id/menu_image_time"
+												android:layout_width="wrap_content" android:layout_height="wrap_content"
+												android:layout_weight="1" android:src="@drawable/time" />
+								</LinearLayout>
+								<LinearLayout android:id="@+id/linearLayout4"
+										android:layout_width="match_parent" android:layout_height="wrap_content">
+
+										<com.scilla.text.HelveticaBold
+												android:id="@+id/menu_text_team" android:gravity="center"
+												android:layout_width="wrap_content" android:layout_height="wrap_content"
+												android:layout_weight="1" android:text="Team" />
+										<com.scilla.text.HelveticaBold
+												android:id="@+id/menu_text_stadium" android:gravity="center"
+												android:layout_width="wrap_content" android:layout_height="wrap_content"
+												android:layout_weight="1" android:text="Stadium" />
+										<com.scilla.text.HelveticaBold
+												android:id="@+id/menu_text_time" android:gravity="center"
+												android:layout_width="wrap_content" android:layout_height="wrap_content"
+												android:layout_weight="1" android:text="Time" />
+								</LinearLayout>
+								<LinearLayout android:id="@+id/linearLayout7"
+										android:layout_width="match_parent" android:layout_height="wrap_content"
+										android:orientation="vertical" android:padding="4dip">
+
+										<com.scilla.text.HelveticaBold
+												android:id="@+id/textView3" android:layout_width="wrap_content"
+												android:layout_height="wrap_content" android:text="Team Players"
+												android:textColor="@color/popupdialogheadcolor" />
+
+										<View android:id="@+id/view1" android:layout_width="wrap_content"
+												android:layout_height="1dip" android:layout_marginTop="2dip"
+												android:background="@color/disabled" />
+								</LinearLayout>
+								<LinearLayout android:id="@+id/linearLayout8"
+										android:layout_width="match_parent" android:layout_height="wrap_content">
+										<ImageView android:id="@+id/csk"
+												android:layout_width="wrap_content" android:layout_height="wrap_content"
+												android:layout_weight="1" android:src="@drawable/logo_chennai_superkings" />
+										<ImageView android:id="@+id/dc"
+												android:layout_width="wrap_content" android:layout_height="wrap_content"
+												android:layout_weight="1" android:src="@drawable/logo_deccan_chargers" />
+										<ImageView android:id="@+id/dd"
+												android:layout_width="wrap_content" android:layout_height="wrap_content"
+												android:layout_weight="1" android:src="@drawable/logo_delhi_dare_devils" />
+										<ImageView android:id="@+id/kkr"
+												android:layout_width="wrap_content" android:layout_height="wrap_content"
+												android:layout_weight="1" android:src="@drawable/logo_kolkata_knight_riders" />
+										<ImageView android:id="@+id/mi"
+												android:layout_width="wrap_content" android:layout_height="wrap_content"
+												android:layout_weight="1" android:src="@drawable/logo_mumbai_indians" />
+								</LinearLayout>
+								<LinearLayout android:id="@+id/linearLayout9"
+										android:layout_width="match_parent" android:layout_height="wrap_content">
+
+										<com.scilla.text.HelveticaBold
+												android:id="@+id/menu_place_team" android:gravity="center"
+												android:layout_width="wrap_content" android:layout_height="wrap_content"
+												android:layout_weight="1" android:text="CSK" />
+										<com.scilla.text.HelveticaBold
+												android:id="@+id/menu_Time_stadium" android:gravity="center"
+												android:layout_width="wrap_content" android:layout_height="wrap_content"
+												android:layout_weight="1" android:text="DC" />
+										<com.scilla.text.HelveticaBold
+												android:id="@+id/menu_place_team" android:gravity="center"
+												android:layout_width="wrap_content" android:layout_height="wrap_content"
+												android:layout_weight="1" android:text="DD" />
+										<com.scilla.text.HelveticaBold
+												android:id="@+id/menu_Time_stadium" android:gravity="center"
+												android:layout_width="wrap_content" android:layout_height="wrap_content"
+												android:layout_weight="1" android:text="KKR" />
+										<com.scilla.text.HelveticaBold
+												android:id="@+id/menu_Time_stadium" android:gravity="center"
+												android:layout_width="wrap_content" android:layout_height="wrap_content"
+												android:layout_weight="1" android:text="MI" />
+								</LinearLayout>
+								<LinearLayout android:id="@+id/linearLayout10"
+										android:layout_width="match_parent" android:layout_height="wrap_content">
+										<ImageView android:id="@+id/pw"
+												android:layout_width="wrap_content" android:layout_height="wrap_content"
+												android:layout_weight="1" android:src="@drawable/logo_pune_warriors" />
+										<ImageView android:id="@+id/kp"
+												android:layout_width="wrap_content" android:layout_height="wrap_content"
+												android:layout_weight="1" android:src="@drawable/logo_punjab_kings" />
+										<ImageView android:id="@+id/rr"
+												android:layout_width="wrap_content" android:layout_height="wrap_content"
+												android:layout_weight="1" android:src="@drawable/logo_rajasthan_royal" />
+										<ImageView android:id="@+id/rcb"
+												android:layout_width="wrap_content" android:layout_height="wrap_content"
+												android:layout_weight="1"
+												android:src="@drawable/logo_royal_challengers_bangalore" />
+								</LinearLayout>
+								<LinearLayout android:id="@+id/linearLayout11"
+										android:layout_width="match_parent" android:layout_height="wrap_content">
+
+										<com.scilla.text.HelveticaBold
+												android:id="@+id/menu_place_team" android:gravity="center"
+												android:layout_width="wrap_content" android:layout_height="wrap_content"
+												android:layout_weight="1" android:text="PW" />
+										<com.scilla.text.HelveticaBold
+												android:id="@+id/menu_Time_stadium" android:gravity="center"
+												android:layout_width="wrap_content" android:layout_height="wrap_content"
+												android:layout_weight="1" android:text="KXIP" />
+										<com.scilla.text.HelveticaBold
+												android:id="@+id/menu_place_team" android:gravity="center"
+												android:layout_width="wrap_content" android:layout_height="wrap_content"
+												android:layout_weight="1" android:text="RR" />
+										<com.scilla.text.HelveticaBold
+												android:id="@+id/menu_Time_stadium" android:gravity="center"
+												android:layout_width="wrap_content" android:layout_height="wrap_content"
+												android:layout_weight="1" android:text="RCB" />
+								</LinearLayout>
+								<LinearLayout android:id="@+id/linearLayout12"
+										android:layout_width="match_parent" android:layout_height="wrap_content"
+										android:orientation="vertical" android:padding="4dip">
+
+										<com.scilla.text.HelveticaBold
+												android:id="@+id/textView3" android:layout_width="wrap_content"
+												android:layout_height="wrap_content" android:text="Today's Match"
+												android:textColor="@color/popupdialogheadcolor" />
+
+										<View android:id="@+id/view1" android:layout_width="wrap_content"
+												android:layout_height="1dip" android:layout_marginTop="2dip"
+												android:background="@color/disabled" />
+								</LinearLayout>
+								<RelativeLayout android:id="@+id/RelativeLayout1"
+										android:layout_marginLeft="15dip" android:layout_marginRight="15dip"
+										android:layout_marginTop="5dip" android:layout_marginBottom="5dip"
+										android:layout_width="fill_parent" android:layout_height="fill_parent">
+										<ImageView android:id="@+id/menu_image_first_team_one"
+												android:layout_alignParentLeft="true" android:layout_width="wrap_content"
+												android:layout_height="wrap_content" android:src="@drawable/team" />
+										<com.scilla.text.HelveticaBold
+												android:id="@+id/menu_text_first_team_one"
+												android:layout_alignParentLeft="true" android:paddingLeft="10px"
+												android:layout_below="@+id/menu_image_first_team_one"
+												android:layout_width="wrap_content" android:layout_height="wrap_content"
+												android:text="Place" />
+										<com.scilla.text.HelveticaBold
+												android:id="@+id/menu_vs_match"
+												android:layout_centerInParent="true" android:gravity="center"
+												android:layout_width="wrap_content" android:layout_height="wrap_content"
+												android:text="Vs" />
+										<ImageView android:id="@+id/menu_image_first_team_two"
+												android:layout_alignParentRight="true" android:layout_width="wrap_content"
+												android:layout_height="wrap_content" android:src="@drawable/stadium" />
+										<com.scilla.text.HelveticaBold
+												android:id="@+id/menu_text_first_team_two"
+												android:paddingRight="10px" android:layout_alignParentRight="true"
+												android:layout_width="wrap_content" android:layout_height="wrap_content"
+												android:layout_below="@+id/menu_image_first_team_two" />
+
+								</RelativeLayout>
+								<LinearLayout android:id="@+id/linearLayout12"
+										android:layout_width="match_parent" android:layout_height="wrap_content"
+										android:orientation="vertical" android:padding="4dip">
+
+										<View android:id="@+id/view1" android:layout_width="wrap_content"
+												android:layout_height="1dip" android:layout_marginTop="2dip"
+												android:background="@color/disabled" />
+								</LinearLayout>
+								<RelativeLayout android:id="@+id/RelativeLayout2"
+										android:layout_marginLeft="15dip" android:layout_marginRight="15dip"
+										android:layout_marginTop="5dip" android:layout_marginBottom="5dip"
+										android:layout_width="fill_parent" android:layout_height="fill_parent">
+										<ImageView android:id="@+id/menu_image_second_team_one"
+												android:layout_alignParentLeft="true" android:layout_width="wrap_content"
+												android:layout_height="wrap_content" android:src="@drawable/team" />
+										<com.scilla.text.HelveticaBold
+												android:id="@+id/menu_text_second_team_one"
+												android:paddingLeft="10px" android:layout_alignParentLeft="true"
+												android:layout_below="@+id/menu_image_second_team_one"
+												android:layout_width="wrap_content" android:layout_height="wrap_content" />
+										<com.scilla.text.HelveticaBold
+												android:id="@+id/menu_vs_match2"
+												android:layout_centerInParent="true" android:gravity="center"
+												android:layout_width="wrap_content" android:layout_height="wrap_content"
+												android:text="Vs" />
+										<ImageView android:id="@+id/menu_image_second_team_two"
+												android:layout_alignParentRight="true" android:layout_width="wrap_content"
+												android:layout_height="wrap_content" android:src="@drawable/stadium" />
+										<com.scilla.text.HelveticaBold
+												android:id="@+id/menu_text_second_team_two"
+												android:paddingRight="10px" android:layout_alignParentRight="true"
+												android:layout_width="wrap_content" android:layout_height="wrap_content"
+												android:text="kumar" android:layout_below="@+id/menu_image_second_team_two" />
+								</RelativeLayout>
+						</LinearLayout>
+				</LinearLayout>
+		</ScrollView>
+		<LinearLayout xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+				android:layout_width="fill_parent" android:id="@+id/ad_layout"
+				android:layout_height="wrap_content" android:gravity="bottom"
+				android:layout_alignParentBottom="true" android:layout_alignBottom="@+id/linearLayout1">
+				<com.google.ads.AdView android:id="@+id/ad"
+						android:gravity="bottom" android:layout_width="wrap_content"
+						android:layout_height="wrap_content" ads:adSize="BANNER"
+						ads:adUnitId="a14f7f0879adda5" ads:loadAdOnCreate="true" />
+		</LinearLayout>
+</RelativeLayout>

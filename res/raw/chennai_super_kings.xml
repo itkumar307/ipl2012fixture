@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<team>
+	<playerlist>
+		<player type="Wicket Keeper" country="India">MS Dhoni(Captain)</player>
+		<player type="Batsman" country="India">Abhinav Mukund</player>
+		<player type="Batsman" country="India">Aniruda Srikkanth</player>
+		<player type="All Rounder" country="South Africa">Albie Morkel</player>
+		<player type="Bowler" country="Australia">Ben Hilfenhaus</player>
+		<player type="Bowler" country="Australia">Doug Bollinger</player>
+		<player type="All Rounder" country="West Indies">Dwayne Bravo</player>
+		<player type="All Rounder" country="South Africa">Faf du Plessis</player>
+		<player type="All Rounder" country="India">G Vignesh</player>
+		<player type="George Bailey" country="">George Bailey</player>
+		<player type="Bowler" country="India">Joginder Sharma</player>
+		<player type="Batsman" country="India">K Vasudevadas</player>
+		<player type="Batsman" country="Australia">Michael Hussey</player>
+		<player type="Batsman" country="India">Murali Vijay</player>
+		<player type="Bowler" country="Sri Lanka">Nuwan Kulasekara</player>
+		<player type="Batsman" country="India">R Ashwin</player>
+		<player type="All Rounder" country="India">Ravindra Jadeja</player>
+		<player type="Bowler" country="India">Shadab Jakati</player>
+		<player type="All Rounder" country="New Zealand">Scott Styris</player>
+		<player type="Batsman" country="India">S Badrinath</player>
+		<player type="All Rounder" country="SriLanka">Suraj Randiv</player>
+		<player type="Bowler" country="">Sudeep Tyagi</player>
+		<player type="All Rounder" country="India">Suresh Raina</player>
+		<player type="Wicket Keeper" country="India">Wriddhiman Saha</player>
+	</playerlist>
+</team>

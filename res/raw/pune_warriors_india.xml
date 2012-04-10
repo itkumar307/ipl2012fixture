@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<team>
+	<playerlist>
+		<player type="Batsman" country="India">Sourav Ganguly (Captain)</player>
+		<player type="Batsman" country="India">Abhishek Jhunjhunwala</player>
+		<player type="Bowler" country="India">Ashish Nehra</player>
+		<player type="Bowler" country="South Africa">Alfonso Thomas</player>
+		<player type="Bowler" country="India">Bhuvneshwar Kumar</player>
+		<player type="Batsman" country="Australia">Callum Ferguson</player>
+		<player type="Batsman" country="India">Dheeraj Jadhav</player>
+		<player type="Wicket Keeper" country="India">Eklavya Dwivedi</player>
+		<player type="All Rounder" country="India">Elango Karthik</player>
+		<player type="Batsman" country="South Africa">Graeme Smith</player>
+		<player type="All Rounder" country="India">Ganesh Gaikwad</player>
+		<player type="Batsman" country="India">Harpreet Singh</player>
+		<player type="Batsman" country="India">Harshad Khadiwale</player>
+		<player type="Bowler" country="India">Imtiyaz Ahmed</player>
+		<player type="Bowler" country="West Indies">Jerome Taylor</player>
+		<player type="All Rounder" country="New Zealand">Jesse Ryder</player>
+		<player type="Bowler" country="India">Kamran Khan</player>
+		<player type="Bowler" country="India">Murali Kartik</player>
+		<player type="All Rounder" country="Australia">Mitchell Marsh</player>
+		<player type="Batsman" country="India">Manish Pandey</player>
+		<player type="Batsman" country="India">Mithun Manhas</player>
+		<player type="Batsman" country="India">Mohnish Mishra</player>
+		<player type="All Rounder" country="New Zealand">Nathan McCullum</player>
+		<player type="Bowler" country="India">Rahul Sharma</player>
+		<player type="Wicket Keeper" country="India">Robin Uthappa</player>
+		<player type="Bowler" country="India">Shrikant Mundhe</player>
+		<player type="Bowler" country="India">Shrikant Wagh</player>
+		<player type="Wicket Keeper" country="Australia">Tim Paine</player>
+		<player type="Bowler" country="South Africa">Wayne Parnell</player>
+		<player type="All Rounder" country="India">Yuvraj Singh</player>
+	</playerlist>
+</team>

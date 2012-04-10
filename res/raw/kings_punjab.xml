@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<team>
+	<playerlist>
+		<player type="Wicketkeepers" country="Australia">Adam Gilchrist(Captain)</player>
+		<player type="All Rounder" country="India">Abhishek Nayar</player>
+		<player type="All Rounder" country="India">Amit Yadav</player>
+		<player type="All Rounder" country="Pakisthan">Azhar Mahmood</player>
+		<player type="Bowler" country="India">Bhargav Bhatt</player>
+		<player type="All Rounder" country="India">Bipul Sharma</player>
+		<player type="Batsman" country="Australia">David Hussey</player>
+		<player type="Batsman" country=" South Africa">David Miller</player>
+		<player type="All Rounder" country="England">Dimitri Mascarenhas</player>
+		<player type="Batsman" country="India">Gurkeerat Rupinder Singh</player>
+		<player type="Bowler" country="India">Harmeet Singh</player>
+		<player type="Batsman" country="India">Mandeep Singh</player>
+		<player type="Bowler" country="Australia">Nathan Rimmington</player>
+		<player type="Wicketkeepers" country="India">Nitin Saini</player>
+		<player type="Batsman" country="India">Paras Dogra</player>
+		<player type="All Rounder" country="India">Paul Valthaty</player>
+		<player type="Bowler" country="India">Piyush Chawla</player>
+		<player type="Bowler" country="India">Praveen Kumar</player>
+		<player type="Bowler" country="India">Parvinder Awana</player>
+		<player type="Bowler" country="Australia">Ryan Harris</player>
+		<player type="All Rounder" country="India">Ramesh Powar</player>
+		<player type="All Rounder" country="India">R Sathish</player>
+		<player type="All Rounder" country="Australia">James Faulkner</player>
+		<player type="Bowler" country="England">Stuart Broad</player>
+		<player type="Bowler" country="India">Shalabh Srivastava</player>
+		<player type="Batsman" country="Australia">Shaun Marsh</player>
+		<player type="Batsman" country="India">Siddharth Chitnis</player>
+		<player type="All Rounder" country="India">Sunny Singh</player>
+		<player type="Bowler" country="India">Vikramjeet Malik</player>
+		
+	</playerlist>
+</team>

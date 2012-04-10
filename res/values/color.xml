@@ -1,0 +1,27 @@
+<resources>
+		<color name="tilte_text">#FFF6F6F6</color>
+		<color name="textcolor">#0A2A12</color>
+		<color name="disabled">#b3b3b3</color>
+		<!-- <color name="enabled">#636363</color> -->
+		<color name="backgroundcolor_allpages">#1B2BE0</color>
+		<!-- <color name="demo_color">#E01B4C</color> -->
+		<!-- <color name="visited">#3333cc</color> -->
+		<!-- <color name="sage">#cceebb</color> -->
+		<!-- <color name="addcarborderbgselector">#ffccff</color> -->
+		<!-- <color name="addcarborderfull">#4000ff</color> -->
+		<!-- <color name="addcarinsideview">#B9B5B5</color> -->
+		<!-- <color name="addcartext">#0A0A0A</color> -->
+		<color name="popupdialogtextcolor">#0A0A0A</color>
+		<color name="popupdialogheadcolor">#FFFFFF</color>
+		<!-- <color name="gridviewcolor_bg">#ffffff</color> -->
+		<!-- <color name="caradd_inputdatatext">#f60d0d</color> -->
+		<!-- <color name="caradd_colorborder">#000000</color> -->
+		<!-- <color name="black">#000000</color> -->
+		<!-- <color name="button_text">#F7D358</color> -->
+		<!-- <color name="keyvalue_text">#0B0BF3</color> -->
+		<!-- <color name="settings_title">#FFFFFF</color> -->
+
+		<!-- <color name="opaque_black">#29000000</color> -->
+		<!-- <color name="carlistbackgroundforall">#ffffff</color> -->
+		<color name="mainbg">#090B96</color>
+</resources>

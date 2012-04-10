@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<team>
+	<playerlist>
+		<player type="Batsman" country="India">Sachin Tendulkar(Captain)</player>
+		<player type="Bowler" country="India">Abu Nechim</player>
+		<player type="Wicket Keeper" country="India">Aditya Tare</player>
+		<player type="Batsman" country="India">Apoorv Wankhade</player>
+		<player type="All Rounder" country="India">Ali  Murtaza</player>
+		<player type="Batsman" country="Australia">Aiden Blizzard</player>
+		<player type="Wicket Keeper" country="India">Ambati Rayudu</player>
+		<player type="Batsman" country="India">Dinesh Karthik</player>
+		<player type="Bowler" country="Sri Lanka">Dilhara Fernando</player>
+		<player type="Wicket Keeper" country="South Africa">Davy Jacobs</player>
+		<player type="Bowler" country="India">Dhawal Kullkarni</player>
+		<player type="Bowler" country="India">Haribhajan Singh</player>
+		<player type="Batsman" country="South Africa">Herschelle Gibbs</player>
+		<player type="All Rounder" country="New Zealand">James Franklin</player>
+		<player type="Bowler" country="India">Munaf Patel</player>
+		<player type="Bowler" country="Australia">Mitchell Johnson</player>
+		<player type="Bowler" country="India">Pawan Suyal</player>
+		<player type="All Rounder" country="West Indies">Kieron Pollard</player>
+		<player type="" country="India">Pragyan Ojha</player>
+		<player type="Batsman" country="India">Rohit Sharma</player>
+		<player type="Batsman" country="India">Sarul Kanwar</player>
+		<player type="All Rounder" country="India">R Sathish</player>
+		<player type="Bowler" country="India">R P Singh</player>
+		<player type="Batsman" country="South Africa">Richard Levi</player>
+		<player type="All Rounder" country="South Africa">Robin Peterson</player>
+		<player type="Batsman" country="India">Suryakumar Yadav</player>
+		<player type="Batsman" country="India">Sushant Marathe</player>
+		<player type="Bowler" country="Sri Lanka">Thisara Perera</player>
+		<player type="All Rounder" country="Australia">Andrew Symonds</player>
+		<player type="Bowler" country="Sri Lanka">Malinga</player>
+		<player type="All Rounder" country="India">Tirumalasetti Suman</player>
+		<player type="Bowler" country="India">Yuzvendra Singh</player>
+	</playerlist>
+</team>

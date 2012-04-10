@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+		<string name="hello">Hello World, IPLBeat!</string>
+		<string name="app_name">IPL Beat</string>
+		<string name="SHAREDPREF_NAME">ScillaPreferencesString</string>
+		<string name="APP_NAME">Company Name</string>
+		<!-- Welcome Screen marquee Msg -->
+		<string name="WELCOME_MSG">Welcome IPL5 Session</string>
+		<string name="DIALOGMESSAGE">Are you sure you want to exit IPL Beat?</string>
+		<!-- Eula oriented Msg -->
+		<string name="EULA_TITLE">License</string>
+		<string name="EULA_ACCEPT">Accept</string>
+		<string name="EULA_REFUSE">Refuse</string>
+		<string name="EULA_FILENAME">EULA</string>
+		<string name="TEAM">Team</string>
+		<string name="TEAM1">Team1</string>
+		<string name="TEAM2">Team2</string>
+		<string name="TIME">Time</string>
+		<string name="DATE">Date</string>
+		<string name="PLACE">Place</string>
+		<string-array name="TIMEARRAY">
+				<item>Select a Time</item>
+				<item>8 am</item>
+				<item>4 pm</item>
+		</string-array>
+		<string-array name="TEAM">
+				<item>Team</item>
+				<item>CSK</item>
+				<item>DC</item>
+				<item>DD</item>
+				<item>KKR</item>
+				<item>MI</item>
+				<item>PW</item>
+				<item>KP</item>
+				<item>RR</item>
+				<item>RCB</item>
+		</string-array>
+		<string-array name="VENUS">
+				<item>Select a Venue</item>
+				<item>Bangalore</item>
+				<item>Chennai</item>
+				<item>Delhi</item>
+				<item>Chandigarh</item>
+				<item>Hyderabad</item>
+				<item>Jaipur</item>
+				<item>Kolkata</item>
+				<item>Mumbai</item>
+				<item>Pune</item>
+				<item>Visakhapatnam</item>
+				<item>Dharamsala</item>
+
+		</string-array>
+</resources>

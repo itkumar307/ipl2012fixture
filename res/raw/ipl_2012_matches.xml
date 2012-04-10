@@ -1,0 +1,691 @@
+<xml>
+	<matches>
+		<lastChanged>31-Mar-2012 16:30</lastChanged>
+		<matcheslist>
+			<match>
+				<matchid>1001</matchid>
+				<date>4-Apr</date>
+				<time>20:00</time>
+				<teams>Chennai Super Kings v Mumbai Indians</teams>
+				<place>Chidambaram Stadium, Chennai</place>
+				<status>To be played</status>
+				<score> </score>
+			</match>
+			<match>
+				<matchid>1002</matchid>
+				<date>5-Apr</date>
+				<time>20:00</time>
+				<teams>Kolkata Knight Riders v Delhi Daredevils</teams>
+				<place>Eden Gardens, Kolkata</place>
+				<status>To be played</status>
+				<score> </score>
+			</match>
+			<match>
+				<matchid>1003</matchid>
+				<date>6-Apr</date>
+				<time>16:00</time>
+				<teams>Mumbai Indians v Pune Warriors</teams>
+				<place>Wankhede Stadium, Mumbai</place>
+				<status>To be played</status>
+				<score> </score>
+			</match>
+			<match>
+				<matchid>1004</matchid>
+				<date>6-Apr</date>
+				<time>20:00</time>
+				<teams>Rajasthan Royals v Kings XI Punjab</teams>
+				<place>Sawai Mansingh Stadium, Jaipur</place>
+				<status>To be played</status>
+				<score> </score>
+			</match>
+			<match>
+				<matchid>1005</matchid>
+				<date>7-Apr</date>
+				<time>16:00</time>
+				<teams>Royal Challengers Bangalore v Delhi Daredevils</teams>
+				<place>Chinnaswamy Stadium, Bangalore</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1006</matchid>
+				<date>7-Apr</date>
+				<time>20:00</time>
+				<teams>Deccan Chargers v Chennai Super Kings</teams>
+				<place>Y.S.Rajasekhara Reddy Cricket Stadium, Visakhapatnam</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1007</matchid>
+				<date>8-Apr</date>
+				<time>16:00</time>
+				<teams>Rajasthan Royals v Kolkata Knight Riders</teams>
+				<place>Sawai Mansingh Stadium, Jaipur</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1008</matchid>
+				<date>8-Apr</date>
+				<time>20:00</time>
+				<teams>Pune Warriors v Kings XI Punjab</teams>
+				<place>Subrata Roy Sahara Stadium, Pune</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1009</matchid>
+				<date>9-Apr</date>
+				<time>20:00</time>
+				<teams>Deccan Chargers v Mumbai Indians</teams>
+				<place>Y.S.Rajasekhara Reddy Cricket Stadium, Visakhapatnam</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1010</matchid>
+				<date>10-Apr</date>
+				<time>16:00</time>
+				<teams>Royal Challengers Bangalore v Kolkata Knight Riders</teams>
+				<place>Chinnaswamy Stadium, Bangalore</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1011</matchid>
+				<date>10-Apr</date>
+				<time>20:00</time>
+				<teams>Delhi Daredevils v Chennai Super Kings</teams>
+				<place>Feroz Shah Kotla, Delhi</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1012</matchid>
+				<date>11-Apr</date>
+				<time>20:00</time>
+				<teams>Mumbai Indians v Rajasthan Royals</teams>
+				<place>Wankhede Stadium, Mumbai</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1013</matchid>
+				<date>12-Apr</date>
+				<time>16:00</time>
+				<teams>Chennai Super Kings v Royal Challengers Bangalore</teams>
+				<place>Chidambaram Stadium, Chennai</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1014</matchid>
+				<date>12-Apr</date>
+				<time>20:00</time>
+				<teams>Kings XI Punjab v Pune Warriors</teams>
+				<place>Punjab Cricket Association Stadium, Chandigarh</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1015</matchid>
+				<date>13-Apr</date>
+				<time>20:00</time>
+				<teams>Kolkata Knight Riders v Rajasthan Royals</teams>
+				<place>Eden Gardens, Kolkata</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1016</matchid>
+				<date>14-Apr</date>
+				<time>20:00</time>
+				<teams>Pune Warriors v Chennai Super Kings</teams>
+				<place>Subrata Roy Sahara Stadium, Pune</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1017</matchid>
+				<date>15-Apr</date>
+				<time>16:00</time>
+				<teams>Kolkata Knight Riders v Kings XI Punjab</teams>
+				<place>Eden Gardens, Kolkata</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1018</matchid>
+				<date>15-Apr</date>
+				<time>20:00</time>
+				<teams>Royal Challengers Bangalore v Rajasthan Royals</teams>
+				<place>Chinnaswamy Stadium, Bangalore</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1019</matchid>
+				<date>16-Apr</date>
+				<time>20:00</time>
+				<teams>Mumbai Indians v Delhi Daredevils</teams>
+				<place>Wankhede Stadium, Mumbai</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1020</matchid>
+				<date>17-Apr</date>
+				<time>16:00</time>
+				<teams>Rajasthan Royals v Deccan Chargers</teams>
+				<place>Sawai Mansingh Stadium, Jaipur</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1021</matchid>
+				<date>17-Apr</date>
+				<time>20:00</time>
+				<teams>Royal Challengers Bangalore v Pune Warriors</teams>
+				<place>Chinnaswamy Stadium, Bangalore</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1022</matchid>
+				<date>18-Apr</date>
+				<time>20:00</time>
+				<teams>Kings XI Punjab v Kolkata Knight Riders</teams>
+				<place>Punjab Cricket Association Stadium, Chandigarh</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1023</matchid>
+				<date>19-Apr</date>
+				<time>16:00</time>
+				<teams>Deccan Chargers v Delhi Daredevils</teams>
+				<place>Feroz Shah Kotla, Delhi</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1024</matchid>
+				<date>19-Apr</date>
+				<time>20:00</time>
+				<teams>Chennai Super Kings v Pune Warriors</teams>
+				<place>Chidambaram Stadium, Chennai</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1025</matchid>
+				<date>20-Apr</date>
+				<time>20:00</time>
+				<teams>Kings XI Punjab v Royal Challengers Bangalore</teams>
+				<place>Punjab Cricket Association Stadium, Chandigarh</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1026</matchid>
+				<date>21-Apr</date>
+				<time>16:00</time>
+				<teams>Chennai Super Kings v Rajasthan Royals</teams>
+				<place>Chidambaram Stadium, Chennai</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1027</matchid>
+				<date>21-Apr</date>
+				<time>20:00</time>
+				<teams>Delhi Daredevils v Pune Warriors</teams>
+				<place>Feroz Shah Kotla, Delhi</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1028</matchid>
+				<date>22-Apr</date>
+				<time>16:00</time>
+				<teams>Mumbai Indians v Kings XI Punjab</teams>
+				<place>Wankhede Stadium, Mumbai</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1029</matchid>
+				<date>22-Apr</date>
+				<time>20:00</time>
+				<teams>Deccan Chargers v Kolkata Knight Riders</teams>
+				<place>Barabati Stadium, Cuttack</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1030</matchid>
+				<date>23-Apr</date>
+				<time>20:00</time>
+				<teams>Rajasthan Royals v Royal Challengers Bangalore</teams>
+				<place>Sawai Mansingh Stadium, Jaipur</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1031</matchid>
+				<date>24-Apr</date>
+				<time>16:00</time>
+				<teams>Pune Warriors v Delhi Daredevils</teams>
+				<place>Subrata Roy Sahara Stadium, Pune</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1032</matchid>
+				<date>24-Apr</date>
+				<time>20:00</time>
+				<teams>Kolkata Knight Riders v Deccan Chargers</teams>
+				<place>Eden Gardens, Kolkata</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1033</matchid>
+				<date>25-Apr</date>
+				<time>16:00</time>
+				<teams>Kings XI Punjab v Mumbai Indians</teams>
+				<place>Punjab Cricket Association Stadium, Chandigarh</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1034</matchid>
+				<date>25-Apr</date>
+				<time>20:00</time>
+				<teams>Royal Challengers Bangalore v Chennai Super Kings</teams>
+				<place>Chinnaswamy Stadium, Bangalore</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1035</matchid>
+				<date>26-Apr</date>
+				<time>20:00</time>
+				<teams>Pune Warriors v Deccan Chargers</teams>
+				<place>Subrata Roy Sahara Stadium, Pune</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1036</matchid>
+				<date>27-Apr</date>
+				<time>20:00</time>
+				<teams>Delhi Daredevils v Mumbai Indians</teams>
+				<place>Feroz Shah Kotla, Delhi</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1037</matchid>
+				<date>28-Apr</date>
+				<time>16:00</time>
+				<teams>Chennai Super Kings v Kings XI Punjab</teams>
+				<place>Chidambaram Stadium, Chennai</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1038</matchid>
+				<date>28-Apr</date>
+				<time>20:00</time>
+				<teams>Kolkata Knight Riders v Royal Challengers Bangalore</teams>
+				<place>Eden Gardens, Kolkata</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1039</matchid>
+				<date>29-Apr</date>
+				<time>16:00</time>
+				<teams>Delhi Daredevils v Rajasthan Royals</teams>
+				<place>Feroz Shah Kotla, Delhi</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1040</matchid>
+				<date>29-Apr</date>
+				<time>20:00</time>
+				<teams>Mumbai Indians v Deccan Chargers</teams>
+				<place>Wankhede Stadium, Mumbai</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1041</matchid>
+				<date>30-Apr</date>
+				<time>20:00</time>
+				<teams>Chennai Super Kings v Kolkata Knight Riders</teams>
+				<place>Chidambaram Stadium, Chennai</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1042</matchid>
+				<date>1-May</date>
+				<time>16:00</time>
+				<teams>Deccan Chargers v Pune Warriors</teams>
+				<place>Barabati Stadium, Cuttack</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1043</matchid>
+				<date>1-May</date>
+				<time>20:00</time>
+				<teams>Rajasthan Royals v Delhi Daredevils</teams>
+				<place>Sawai Mansingh Stadium, Jaipur</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1044</matchid>
+				<date>2-May</date>
+				<time>20:00</time>
+				<teams>Royal Challengers Bangalore v Kings XI Punjab</teams>
+				<place>Chinnaswamy Stadium, Bangalore</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1045</matchid>
+				<date>3-May</date>
+				<time>20:00</time>
+				<teams>Pune Warriors v Mumbai Indians</teams>
+				<place>Subrata Roy Sahara Stadium, Pune</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1046</matchid>
+				<date>4-May</date>
+				<time>20:00</time>
+				<teams>Chennai Super Kings v Deccan Chargers</teams>
+				<place>Chidambaram Stadium, Chennai</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1047</matchid>
+				<date>5-May</date>
+				<time>16:00</time>
+				<teams>Kolkata Knight Riders v Pune Warriors</teams>
+				<place>Eden Gardens, Kolkata</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1048</matchid>
+				<date>5-May</date>
+				<time>20:00</time>
+				<teams>Kings XI Punjab v Rajasthan Royals</teams>
+				<place>Punjab Cricket Association Stadium, Chandigarh</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1049</matchid>
+				<date>6-May</date>
+				<time>16:00</time>
+				<teams>Mumbai Indians v Chennai Super Kings</teams>
+				<place>Wankhede Stadium, Mumbai</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1050</matchid>
+				<date>6-May</date>
+				<time>20:00</time>
+				<teams>Royal Challengers Bangalore v Deccan Chargers</teams>
+				<place>Chinnaswamy Stadium, Bangalore</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1051</matchid>
+				<date>7-May</date>
+				<time>20:00</time>
+				<teams>Delhi Daredevils v Kolkata Knight Riders</teams>
+				<place>Feroz Shah Kotla, Delhi</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1052</matchid>
+				<date>8-May</date>
+				<time>16:00</time>
+				<teams>Pune Warriors v Rajasthan Royals</teams>
+				<place>Subrata Roy Sahara Stadium, Pune</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1053</matchid>
+				<date>8-May</date>
+				<time>20:00</time>
+				<teams>Deccan Chargers v Kings XI Punjab</teams>
+				<place>Rajiv Gandhi International Stadium, Hyderabad</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1054</matchid>
+				<date>9-May</date>
+				<time>20:00</time>
+				<teams>Mumbai Indians v Royal Challengers Bangalore</teams>
+				<place>Wankhede Stadium, Mumbai</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1055</matchid>
+				<date>10-May</date>
+				<time>16:00</time>
+				<teams>Deccan Chargers v Delhi Daredevils</teams>
+				<place>Rajiv Gandhi International Stadium, Hyderabad</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1056</matchid>
+				<date>10-May</date>
+				<time>20:00</time>
+				<teams>Rajasthan Royals v Chennai Super Kings</teams>
+				<place>Sawai Mansingh Stadium, Jaipur</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1057</matchid>
+				<date>11-May</date>
+				<time>20:00</time>
+				<teams>Pune Warriors v Royal Challengers Bangalore</teams>
+				<place>Subrata Roy Sahara Stadium, Pune</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1058</matchid>
+				<date>12-May</date>
+				<time>16:00</time>
+				<teams>Kolkata Knight Riders v Mumbai Indians</teams>
+				<place>Eden Gardens, Kolkata</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1059</matchid>
+				<date>12-May</date>
+				<time>20:00</time>
+				<teams>Chennai Super Kings v Delhi Daredevils</teams>
+				<place>Chidambaram Stadium, Chennai</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1060</matchid>
+				<date>13-May</date>
+				<time>16:00</time>
+				<teams>Rajasthan Royals v Pune Warriors</teams>
+				<place>Sawai Mansingh Stadium, Jaipur</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1061</matchid>
+				<date>13-May</date>
+				<time>20:00</time>
+				<teams>Kings XI Punjab v Deccan Chargers</teams>
+				<place>Punjab Cricket Association Stadium, Chandigarh</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1062</matchid>
+				<date>14-May</date>
+				<time>16:00</time>
+				<teams>Royal Challengers Bangalore v Mumbai Indians</teams>
+				<place>Chinnaswamy Stadium, Bangalore</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1063</matchid>
+				<date>14-May</date>
+				<time>20:00</time>
+				<teams>Kolkata Knight Riders v Chennai Super Kings</teams>
+				<place>Eden Gardens, Kolkata</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1064</matchid>
+				<date>15-May</date>
+				<time>20:00</time>
+				<teams>Delhi Daredevils v Kings XI Punjab</teams>
+				<place>Feroz Shah Kotla, Delhi</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1065</matchid>
+				<date>16-May</date>
+				<time>20:00</time>
+				<teams>Mumbai Indians v Kolkata Knight Riders</teams>
+				<place>Wankhede Stadium, Mumbai</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1066</matchid>
+				<date>17-May</date>
+				<time>16:00</time>
+				<teams>Kings XI Punjab v Chennai Super Kings</teams>
+				<place>Himachal Pradesh Cricket Association Stadium, Dharamsala</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1067</matchid>
+				<date>17-May</date>
+				<time>20:00</time>
+				<teams>Delhi Daredevils v Royal Challengers Bangalore</teams>
+				<place>Feroz Shah Kotla, Delhi</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1068</matchid>
+				<date>18-May</date>
+				<time>20:00</time>
+				<teams>Deccan Chargers v Rajasthan Royals</teams>
+				<place>Rajiv Gandhi International Stadium, Hyderabad</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1069</matchid>
+				<date>19-May</date>
+				<time>16:00</time>
+				<teams>Kings XI Punjab v Delhi Daredevils</teams>
+				<place>Himachal Pradesh Cricket Association Stadium, Dharamsala</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1070</matchid>
+				<date>19-May</date>
+				<time>20:00</time>
+				<teams>Pune Warriors v Kolkata Knight Riders</teams>
+				<place>Subrata Roy Sahara Stadium, Pune</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1071</matchid>
+				<date>20-May</date>
+				<time>16:00</time>
+				<teams>Deccan Chargers v Royal Challengers Bangalore</teams>
+				<place>Rajiv Gandhi International Stadium, Hyderabad</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1072</matchid>
+				<date>20-May</date>
+				<time>20:00</time>
+				<teams>Rajasthan Royals v Mumbai Indians</teams>
+				<place>Sawai Mansingh Stadium, Jaipur</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1073</matchid>
+				<date>22-May</date>
+				<time>20:00</time>
+				<teams>TBC v TBC, Qualifier 1 (1st v 2nd)</teams>
+				<place>Subrata Roy Sahara Stadium, Pune</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1074</matchid>
+				<date>23-May</date>
+				<time>20:00</time>
+				<teams>TBC v TBC, Eliminator (3rd v 4th)</teams>
+				<place>M.Chinnaswamy Stadium, Bengaluru</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1075</matchid>
+				<date>25-May</date>
+				<time>20:00</time>
+				<teams>Qualifier 2 (Winner of Eliminator v Loser of Qualifier 1 )</teams>
+				<place>Chidambaram Stadium, Chennai</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+			<match>
+				<matchid>1076</matchid>
+				<date>27-May</date>
+				<time>20:00</time>
+				<teams>Final(Winner of Qualifier 1 v Winner of Qualifier 2)</teams>
+				<place>Chidambaram Stadium, Chennai</place>
+				<status>To be played</status>
+				<score></score>
+			</match>
+		</matcheslist>
+	</matches>
+</xml>
