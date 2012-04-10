@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-		package="com.scilla.ipl" android:versionCode="2" android:versionName="2.0">
+		package="com.scilla.ipl" android:versionCode="3" android:versionName="3.0">
 		<uses-sdk android:minSdkVersion="8" />
 		<uses-permission android:name="android.permission.INTERNET" />
 		<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -27,6 +27,9 @@
 						android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden">
 				</activity>
 				<activity android:name="IplTimeActivity"
+						android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden">
+				</activity>
+				<activity android:name="LiveScoreActivity"
 						android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden">
 				</activity>
 				<activity android:name="IplVenueActivity"

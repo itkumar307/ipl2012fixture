@@ -3,7 +3,7 @@
 		android:background="@drawable/cricketbg" xmlns:android="http://schemas.android.com/apk/res/android">
 		<ScrollView android:id="@+id/scroller"
 				android:layout_width="fill_parent" android:layout_height="fill_parent"
-				android:orientation="vertical" android:layout_marginBottom="25dip">
+				android:orientation="vertical" android:layout_marginBottom="40dip">
 				<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
 						android:id="@+id/linearLayout1" android:layout_width="wrap_content"
 						android:layout_height="fill_parent">
@@ -22,6 +22,49 @@
 												android:singleLine="true" android:text="IPL 2012 SCHEDULE"
 												android:textColor="@color/tilte_text" />
 								</RelativeLayout>
+								<LinearLayout android:id="@+id/linearLayout12"
+										android:layout_width="match_parent" android:layout_height="wrap_content"
+										android:orientation="vertical" android:padding="2dip">
+
+										<com.scilla.text.HelveticaBold
+												android:id="@+id/menu_scoreboard" android:layout_width="wrap_content"
+												android:layout_height="wrap_content" android:text="Score Board"
+												android:textColor="@color/popupdialogheadcolor" />
+
+										<View android:id="@+id/view1" android:layout_width="wrap_content"
+												android:layout_height="1dip" android:layout_marginTop="2dip"
+												android:background="@color/disabled" />
+								</LinearLayout>
+								<LinearLayout android:id="@+id/linearLayout13"
+										android:layout_width="match_parent" android:layout_height="wrap_content">
+
+										<ImageView android:id="@+id/menu_live_score"
+												android:layout_width="wrap_content" android:layout_height="wrap_content"
+												android:layout_weight="1" android:src="@drawable/live_score" />
+										<ImageView android:id="@+id/menu_image_points"
+												android:layout_width="wrap_content" android:layout_height="wrap_content"
+												android:layout_weight="1" android:src="@drawable/points" />
+										<ImageView android:id="@+id/menu_image_news"
+												android:layout_width="wrap_content" android:layout_height="wrap_content"
+												android:layout_weight="1" android:src="@drawable/news" />
+								</LinearLayout>
+								<LinearLayout android:id="@+id/linearLayout4"
+										android:layout_width="match_parent" android:layout_height="wrap_content">
+
+										<com.scilla.text.HelveticaBold
+												android:id="@+id/menu_text_team" android:gravity="center"
+												android:layout_width="wrap_content" android:layout_height="wrap_content"
+												android:layout_weight="1" android:text="Score" />
+										<com.scilla.text.HelveticaBold
+												android:id="@+id/menu_text_stadium" android:gravity="center"
+												android:layout_width="wrap_content" android:layout_height="wrap_content"
+												android:layout_weight="1" android:text="Points" />
+										<com.scilla.text.HelveticaBold
+												android:id="@+id/menu_text_time" android:gravity="center"
+												android:layout_width="wrap_content" android:layout_height="wrap_content"
+												android:layout_weight="1" android:text="News" />
+								</LinearLayout>
+
 								<LinearLayout android:id="@+id/linearLayout2"
 										android:layout_width="match_parent" android:layout_height="wrap_content"
 										android:orientation="vertical" android:padding="2dip">

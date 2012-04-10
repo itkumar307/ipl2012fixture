@@ -5,10 +5,13 @@ import java.util.Date;
 
 import android.app.Activity;
 import android.app.AlertDialog;
+import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.database.Cursor;
 import android.graphics.BitmapFactory;
+import android.net.ConnectivityManager;
+import android.net.NetworkInfo;
 import android.net.Uri;
 import android.os.Bundle;
 import android.view.KeyEvent;
@@ -16,6 +19,7 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.google.ads.AdRequest;
 import com.google.ads.AdView;
@@ -26,7 +30,8 @@ public class IplMenuActivity extends Activity {
 	private ImageView teamSearch;
 	private ImageView stadiumSearch;
 	private ImageView dateSearch;
-	private ImageView csk, dc, dd, kkr, kp, mi, pw, rcb, rr;
+	private ImageView csk, dc, dd, kkr, kp, mi, pw, rcb, rr, Livescore,
+			teampoints, teamnews;
 	private ImageView image1, image2, image3, image4;
 	private TextView tx1, tx2, tx3, tx4, vs;
 
@@ -55,10 +60,37 @@ public class IplMenuActivity extends Activity {
 		image2 = (ImageView) findViewById(R.id.menu_image_first_team_two);
 		image3 = (ImageView) findViewById(R.id.menu_image_second_team_one);
 		image4 = (ImageView) findViewById(R.id.menu_image_second_team_two);
-
+		Livescore = (ImageView) findViewById(R.id.menu_live_score);
+		teamnews = (ImageView) findViewById(R.id.menu_image_news);
+		teampoints = (ImageView) findViewById(R.id.menu_image_points);
 		AdView adView = (AdView) this.findViewById(R.id.ad);
 		adView.loadAd(new AdRequest());
 
+		Livescore.setOnClickListener(new OnClickListener() {
+
+			@Override
+			public void onClick(View v) {
+				accessWebview("livescore");
+
+			}
+
+		});
+		teamnews.setOnClickListener(new OnClickListener() {
+
+			@Override
+			public void onClick(View v) {
+				accessWebview("teamnews");
+
+			}
+		});
+		teampoints.setOnClickListener(new OnClickListener() {
+
+			@Override
+			public void onClick(View v) {
+				accessWebview("teampoints");
+
+			}
+		});
 		teamSearch.setOnClickListener(new OnClickListener() {
 
 			@Override
@@ -266,6 +298,30 @@ public class IplMenuActivity extends Activity {
 
 	protected boolean exitOnBackButton() {
 		return true;
+	}
+
+	private void accessWebview(String type) {
+
+		try {
+			ConnectivityManager conMgr = (ConnectivityManager) getSystemService(Context.CONNECTIVITY_SERVICE);
+			NetworkInfo activeNetwork = conMgr.getActiveNetworkInfo();
+			if (activeNetwork != null
+					&& activeNetwork.getState() == NetworkInfo.State.CONNECTED) {
+				Intent liveIntent = new Intent(IplMenuActivity.this,
+						LiveScoreActivity.class);
+				liveIntent.putExtra("type", type);
+				startActivity(liveIntent);
+			} else {
+				Toast.makeText(
+						IplMenuActivity.this,
+						"You cannot perform this action at this moment,You arenot have net connection now",
+						Toast.LENGTH_LONG).show();
+			}
+		} catch (Exception e) {
+			SLog.error(this.getClass(),
+					"access error in navigate webpage" + e.getMessage());
+		}
+
 	}
 
 	private void displayExitAlert() {
